@@ -1,0 +1,26 @@
+a 0
+g 0
+f 1000
+g 0
+a 0
+a 1000
+a
+g
+g
+g
+a
+c
+c
+a
+g
+f
+g
+a
+a
+a
+a
+g
+g
+a
+g
+f
